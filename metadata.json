@@ -1,0 +1,6 @@
+{
+  "name": "Modly — Halloween Edition & Ofertas de Moda",
+  "description": "Tu estilo a un solo clic con la edición especial de Halloween de Modly: ofertas exclusivas, colección nocturna y envíos en 24-48h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
